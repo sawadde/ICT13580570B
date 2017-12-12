@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage
-	xmlns="http://xamarin.com/schemas/2014/forms"
-	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-	x:Class="ICT13580570B.MenuPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="ICT13580570B.MenuPage"
     Title="Menu"
-    Icon="icons8-menu.png"
-    
-    >
+    Icon="icons8-menu.png">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition
@@ -14,31 +12,31 @@
             <RowDefinition />
         </Grid.RowDefinitions>
         <BoxView
-            Color="Green" />
+            Color="#FCDFFF" />
         <StackLayout
             Orientation="Vertical"
             VerticalOptions="End"
             Margin="10">
             <Image
-                Source="https://koreaboo.global.ssl.fastly.net/wp-content/uploads/2017/07/minhyun-1.jpg"
+                Source="https://www.daradaily.com/module/ckfinder/userfiles/images/Screen%20Shot%202017-03-15%20at%206_11_30%20PM.png"
                 HeightRequest="100"
                 WidthRequest="100"
                 HorizontalOptions="Start"
-                BackgroundColor="Silver" />
+                BackgroundColor="#E3E4FA" />
             <Label
-                Text="Hwan Minhyun"
-                TextColor="White"
+                Text="Lee Tanat"
+                TextColor="#7e354d"
                 FontAttributes="Bold"
                 FontSize="12" />
             <Label
-                Text="lovemineiei@hotmail.com"
+                Text="LeeTanat@hotmail.com"
                 TextColor="White"
                 FontAttributes="Bold"
                 FontSize="12" />
         </StackLayout>
         <BoxView
             Grid.Row="1"
-            Color="Gray" />
+            Color="#E3E4FA" />
         <ScrollView
             Grid.Row="1">
             <StackLayout
@@ -53,13 +51,10 @@
                     x:Name="viewButton"
                     Text="All View"
                     BackgroundColor="Silver" />
-                
                 <BoxView
                     Color="White"
                     HeightRequest="3"
                     Margin="10" />
-
-                
                 <Label
                     Text="Layout"
                     TextColor="White"
@@ -77,42 +72,31 @@
                     x:Name="absoluteButton"
                     Text="Absolute Layout"
                     BackgroundColor="Silver" />
-
-
                 <BoxView
                     Color="White"
                     HeightRequest="3"
                     Margin="10" />
-
-                 <Label
+                <Label
                     Text="Page"
                     TextColor="White"
                     HorizontalTextAlignment="Center"
                     FontAttributes="Bold" />
-
-                     <Button
+                <Button
                     x:Name="contentButton"
                     Text="Content Page"
                     BackgroundColor="Silver" />
-
-                 <Button
+                <Button
                     x:Name="navigationButton"
                     Text="Navigation Page"
                     BackgroundColor="Silver" />
-
                 <Button
                     x:Name="TabBotton"
                     Text="Tabbed Page"
                     BackgroundColor="Silver" />
-
                 <Button
                     x:Name="CarouselBotton"
                     Text="Carousel Page"
                     BackgroundColor="Silver" />
-                
-
-
-                
             </StackLayout>
         </ScrollView>
     </Grid>

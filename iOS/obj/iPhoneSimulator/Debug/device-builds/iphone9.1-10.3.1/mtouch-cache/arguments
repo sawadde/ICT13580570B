@@ -9,7 +9,7 @@
 	--debug \
 	--nolink \
 	--sdkroot \
-	"/Applications/Xcode 2.app/Contents/Developer" \
+	/Applications/Xcode.app/Contents/Developer \
 	--sdk \
 	10.3 \
 	--targetver \

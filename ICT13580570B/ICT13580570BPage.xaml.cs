@@ -4,7 +4,7 @@ namespace ICT13580570B
 {
     public partial class ICT13580570BPage : ContentPage
     {
-       
+
 
         public ICT13580570BPage()
         {
@@ -18,7 +18,7 @@ namespace ICT13580570B
 
             mySlider.ValueChanged += MySlider_ValueChanged;
             myStepper.ValueChanged += MyStepper_ValueChanged;
-		}
+        }
 
         void OkButton_Clicked(object sender, System.EventArgs e)
         {
@@ -37,4 +37,4 @@ namespace ICT13580570B
             valueLable.Text = value.ToString();
         }
     }
-    }
+}

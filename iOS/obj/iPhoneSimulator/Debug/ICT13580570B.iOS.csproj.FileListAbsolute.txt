@@ -56,5 +56,8 @@
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/menu.png
-/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/icons8-menu.png
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/add-contact.png
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/email.png
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/home.png
