@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{0FAFD929-7FF7-4E9C-B56E-6B1241685C49}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ICT13580570B/TabPage1.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICT13580570B/MenuPage.xaml.cs">
     <Files>
       <File FileName="ICT13580570B/ICT13580570BPage.xaml" Line="57" Column="15" />
       <File FileName="ICT13580570B/MenuPage.xaml" Line="103" Column="15" />
