@@ -61,3 +61,6 @@
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/add-contact.png
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/email.png
 /Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/home.png
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/menuicon.png
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/menu-options.png
+/Users/ict/Desktop/ICT13580570B/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/menu-option.png
